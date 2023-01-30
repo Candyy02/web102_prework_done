@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/eKS8deN.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/eKS8deN.gif' title='Video Walkthrough' width='500' height='300' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with LiveCap
@@ -35,11 +35,11 @@ GIF created with LiveCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I tried to remember git commands and search a lot of information I forgot on MDN.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] []
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
