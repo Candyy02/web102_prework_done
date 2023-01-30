@@ -25,7 +25,9 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/eKS8deN.gif' title='Video Walkthrough' width='500' height='300' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
-
+I'm sorry. I tried so many times but the GIF did not show on this. 
+This is the GIF link.
+https://i.imgur.com/eKS8deN.gif
 GIF created with LiveCap
 
 <!-- Recommended tools:
