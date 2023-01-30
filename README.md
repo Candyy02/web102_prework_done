@@ -22,13 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+![demofinal2](https://user-images.githubusercontent.com/88505723/215517826-ea96ea49-b364-43d9-9d48-c260a0e2e48d.gif)
 <img src='https://i.imgur.com/eKS8deN.gif' title='Video Walkthrough' width='500' height='300' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
-I'm sorry. I tried so many times but the GIF did not show on this. 
-This is the GIF link.
-https://i.imgur.com/eKS8deN.gif
-GIF created with LiveCap
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
