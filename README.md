@@ -17,12 +17,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Nothing else
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![demofinal2](https://user-images.githubusercontent.com/88505723/215517826-ea96ea49-b364-43d9-9d48-c260a0e2e48d.gif)
+![Uploading demofinal3.gif…]()
 <img src='https://i.imgur.com/eKS8deN.gif' title='Video Walkthrough' width='500' height='300' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 
